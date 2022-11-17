@@ -1496,11 +1496,7 @@ public class Quiz {
     public static void creditos() {
         System.out.println("\n****************************CRÉDITOS*****************************");
         System.out.println("\nEste Quiz foi desenvolvido pelos alunos:"
-                + "\n*Igor Gonçalves Lima"
-                + "\n*John Brandy"
-                + "\n*Rony Anderson"
-                + "\n*Leonardo Silva Nascimento"
-                + "\n*Lucas Serrato Bonito"
+                + "\n*Lucas S"
                 + "\n\nMatéria: Projeto Integrador I"
                 + "\n\nCurso: Tecnologia em Análise e Desenvolvimento de Sistemas"
                 + "\n\nTurma: C | Período: Noturno | Ano: 2022"
