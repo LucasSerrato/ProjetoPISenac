@@ -1495,7 +1495,7 @@ public class Quiz {
     // MÉTODO PARA RETORNAR OS CRÉDITOS
     public static void creditos() {
         System.out.println("\n****************************CRÉDITOS*****************************");
-        System.out.println("\nEste Quiz foi desenvolvido pelos alunos:"
+        System.out.println("\nEste Quiz foi desenvolvido pelo aluno:"
                 + "\n*Lucas S"
                 + "\n\nMatéria: Projeto Integrador I"
                 + "\n\nCurso: Tecnologia em Análise e Desenvolvimento de Sistemas"
